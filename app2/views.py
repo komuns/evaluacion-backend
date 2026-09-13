@@ -5,4 +5,3 @@ def vista_tres(request):
 
 def vista_cuatro(request):
     return HttpResponse("<h1>Hola desde la Vista 4 de App 2</h1>")
-  
